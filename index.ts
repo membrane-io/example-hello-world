@@ -4,7 +4,7 @@
 import { nodes, root, state } from "membrane";
 
 export const Root = {
-  greet: ({ args: { name } }) => {
+  greet: ({ name }) => {
     return `Hello ${name}`;
   },
 };
