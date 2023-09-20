@@ -1,6 +1,6 @@
 ## Hello world
 
-Example of a Membrane program that prints "Hello World" to the console using actions.
+Example of a Membrane action that prints "Hello World" to the console.
 
 ### Usage
 
